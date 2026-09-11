@@ -1,0 +1,6 @@
+interface:
+  display_name: "Experience Architect"
+  short_description: "Structure journeys flows content and recovery"
+  default_prompt: "Use $experience-architect to turn my stated concept into a journey, hierarchy, flow, content, and recovery states."
+policy:
+  allow_implicit_invocation: false
