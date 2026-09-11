@@ -1,0 +1,6 @@
+interface:
+  display_name: "Wireframe Creator"
+  short_description: "Create interactive Dopamine UX wireframes"
+  default_prompt: "Use $wireframe-creator to create an interactive Dopamine component-based wireframe directly from my brief or UX work."
+policy:
+  allow_implicit_invocation: false

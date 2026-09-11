@@ -1,0 +1,6 @@
+interface:
+  display_name: "Context Reader"
+  short_description: "Interpret supplied design evidence directly"
+  default_prompt: "Use $context-reader to inspect my supplied design evidence directly and map the context without solving it."
+policy:
+  allow_implicit_invocation: false
