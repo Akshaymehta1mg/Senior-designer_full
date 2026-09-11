@@ -1,0 +1,14 @@
+.DS_Store
+
+# Keep generated wireframes and review artifacts out of the skill repository.
+Test 1/
+Test 2/
+Test 3/
+test-1/
+test-2/
+test-3/
+*.html
+*.png
+*.jpg
+*.jpeg
+*.webp
