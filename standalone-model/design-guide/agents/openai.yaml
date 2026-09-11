@@ -1,6 +1,0 @@
-interface:
-  display_name: "Design Guide"
-  short_description: "Clarify requests and choose a design specialist"
-  default_prompt: "Use $design-guide to inspect my design request and recommend the best standalone specialist."
-policy:
-  allow_implicit_invocation: false

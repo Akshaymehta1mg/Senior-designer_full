@@ -1,6 +1,0 @@
-interface:
-  display_name: "Design Validator"
-  short_description: "Validate UX directions flows and wireframes"
-  default_prompt: "Use $design-validator to independently review my supplied design artifact and identify material revisions."
-policy:
-  allow_implicit_invocation: false

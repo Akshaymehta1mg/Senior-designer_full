@@ -1,6 +1,0 @@
-interface:
-  display_name: "Research Guide"
-  short_description: "Decide and plan proportionate UX research"
-  default_prompt: "Use $research-guide to decide directly whether research is needed and recommend the lightest useful approach."
-policy:
-  allow_implicit_invocation: false

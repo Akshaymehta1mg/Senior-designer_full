@@ -1,6 +1,0 @@
-interface:
-  display_name: "Problem Framer"
-  short_description: "Frame the user situation and UX problem"
-  default_prompt: "Use $problem-framer to frame my UX problem directly from the supplied context and evidence."
-policy:
-  allow_implicit_invocation: false

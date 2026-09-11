@@ -1,6 +1,0 @@
-interface:
-  display_name: "Solution Guide"
-  short_description: "Explore and recommend a UX direction"
-  default_prompt: "Use $solution-guide to compare solution directions directly from my brief and recommend one with trade-offs."
-policy:
-  allow_implicit_invocation: false
